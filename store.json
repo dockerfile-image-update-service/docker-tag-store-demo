@@ -4,6 +4,6 @@
     "afalko/alpine-python": "14",
     "afalko/alpine-java": "8",
     "afalko/hello-world-app": "5",
-    "afalko/python2-test-app": "7"
+    "afalko/python2-test-app": "5"
   }
 }
