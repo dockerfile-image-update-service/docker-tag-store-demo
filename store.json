@@ -1,7 +1,7 @@
 {
   "images": {
     "afalko/alpine": "39",
-    "afalko/alpine-python": "21",
+    "afalko/alpine-python": "22",
     "afalko/alpine-java": "16",
     "afalko/hello-world-app": "12",
     "afalko/python2-test-app": "10"
