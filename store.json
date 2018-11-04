@@ -2,7 +2,7 @@
   "images": {
     "afalko/alpine": "61",
     "afalko/alpine-python": "41",
-    "afalko/alpine-java": "36",
+    "afalko/alpine-java": "37",
     "afalko/hello-world-app": "32",
     "afalko/python2-test-app": "11",
     "afalko/python3-test-app": "31"
