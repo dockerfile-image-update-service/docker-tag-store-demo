@@ -3,7 +3,7 @@
     "afalko/alpine": "65",
     "afalko/alpine-python": "48",
     "afalko/alpine-java": "41",
-    "afalko/hello-world-app": "36",
+    "afalko/hello-world-app": "37",
     "afalko/python2-test-app": "15",
     "afalko/python3-test-app": "36"
   }
